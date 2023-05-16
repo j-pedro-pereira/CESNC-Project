@@ -1,6 +1,5 @@
 # CESNC-Project
 
-## Project Description
 Within the scope of CESNC curriculum this project involves a creation of a Python-made tool known as Crawler/Scraper to withdraw important information such as passwords, addresses and other relevant information from GitHub repositories. Possibly if the group ends the main objectives, it can be feasible to setup the Crawler/Scraper to refresh every x minutes and other optional functionalities to enhance said tool.
 
 
